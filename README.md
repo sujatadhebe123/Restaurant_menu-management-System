@@ -1,6 +1,8 @@
 # Restaurant_menu-management-System
 🍽️ A JSP and DBMS-based Restaurant Menu Management System that allows admins to manage menu items and customers to view, order, and explore meals dynamically.
-![image](https://github.com/user-attachments/assets/f275e51a-11a9-4183-b95c-363ace03050b
+
+
+![image](https://github.com/user-attachments/assets/f275e51a-11a9-4183-b95c-363ace03050b)
 
 
 ![image](https://github.com/user-attachments/assets/a3b1639f-e2ed-4931-8888-cbc660350ec7)
